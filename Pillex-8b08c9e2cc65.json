@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pillex",
+  "private_key_id": "8b08c9e2cc65932ef49f4a46e77e311f008ea375",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCIV4hyf/gxU8kv\n39IhucsReVPzsqi6CXQX6OfvMn4YX6roq70Z5ZzBKI3UOhCm/YntqajxhutZkpNJ\nLMBkN27r95Db4+hEaVjN3bZQu7JOMkgDQWW2dc58TkE5p/CxMyxnfGfC1HvGOZkV\nKtBlEgFAczYn2wNFwfAG09UJI6V6oX3g7GDtN47Uw9IvlBKMUym+B9QfHvGElR0u\nsoQ40TeSp65hCZsuFeYa1F6XWahPNiWEVjNe69bbFqQ1980+b6hz9Tpo/pwSCNdn\n53wAOPl7+XlDls8mIRaWhlSuwkIVzAwqyD4YNPtj+vdGGzYH/RELdtz07LdE3drx\n2Y0sRX7xAgMBAAECggEAIHJYZgtfWPncFLkazGznT0rE+GeJsPBkAPasD6hACvPl\nfAa2841Jz0wj6KBC60LGStmH+6bEpqXzyEPOq2rnyl85yaLE2VcKy79aTn9EsUhV\nC/VJy/DgSYPkEOEPLlSD2kLofJzNsgBuFnQAcTUmOBzTBAwijLzZLv7Foa2qiXLB\nSHWYgFtY5qY7iOrWE+dcZBKgtMlu6d6PvMd/kmZ7pPRuVPlGuHFwZUSoZgZQA6uE\n1ovrDnhqGIggZZ51+5Os1Nl0iAz1K/dVXEfyuDMn9Gas7p0+5JDVllN1132fbho/\naISdC/GPTpn5UwV1u5XwFbF9Hg8M4EI0JuxiN/O2uQKBgQDAeqgfe0KEX+ZM0syO\nlSVrgqKukfxgFqXxdhlMBzzN4YPXIFHWmM5In1Eo8m3TbAYzB8k+pWH+HllOeh53\nlVd7T1HuLDwrv3xsgOV3dgPYiiTZIZ31HXeWNF5XQdpcv+1Y/Sprvg2Vkjxv6z7N\nHJIQaYKLr6sWmN9pXSMrj65G3QKBgQC1VjMJvsbjigMyNPpIrKkQe7zIyhHKLPfi\nhH0Ui1SLpSxKD8k+3QW/qT2rTfcEXXRFJWNtT8R7/b5L2Tt0maV1+Kse+c6nwOpu\nZ6Wl9dgPInRo5SGCR6FmEbolJeAG0wop8fF5aYxllCNcW9MhvWP3X349GvA/lidj\nxDjUKLe1JQKBgDm2zaCa8ggFRWX1s1ZxjEXfZu5XYchiIiHz2oP8i5PkMgcYbtGd\nAgWul8RiZOIHOxikFgjNyENNUFQCtA4BXrjfwN5crzIi+akDQUr/vQl56rCcruNn\nkYsdashZO6Oh/QY46zZhR2t47NxWOn+AOJ/pMza1VuSwtBTA06HlNEmVAoGANL+2\naQdN47Kp61jt1WYkZ98Ws3HUavNZyFKx79/34AdUMtcUu2yf13jrr4Emceadg9+0\nZH/nsAnH6VhvqyNmtkJ3xLL2ImZDy4nq7bPt/bkQE9NTRAqCMKbHdzblTBbnxfvT\nOnYxmPrWrm8no5DsG3Fzz2KesGCFZMgXn9+YUOECgYBXB63DMz+LckLcSDyEQgIE\n4CaRXCDu/WCBxDCmjUAcaik7ohfR6AJ3BgnFQ/3zXDL4S4vwpDze0v97j/fNidTr\nYCZzIEP8CbbdvBGP295X9rEteDZ12NozOQJF8Me5eVGI8fD9ZhtbpDq58kCRoX1H\nMFPJ1o+mwfPICd1TPOo/kg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pillex@pillex.iam.gserviceaccount.com",
+  "client_id": "101549614274143506315",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pillex%40pillex.iam.gserviceaccount.com"
+}
