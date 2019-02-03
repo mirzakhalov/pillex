@@ -19,7 +19,9 @@ class Enhancer:
         
         # change the contrast of the image by manipulating the alpha value
         new_image = cv.convertScaleAbs(image, alpha=alpha, beta=20)
-        cv.imwrite("result.jpg",new_image)
+        cv.imwrite(filepath + ".jpg",new_image)
         return filepath
+    
+
     
     
